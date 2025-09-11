@@ -4,4 +4,4 @@
 - 姓名：楊媗宇
 - 系級：科技系二年級
 - 課程筆記區、作業連結區、專題連結區
--  [week1](https://colab.research.google.com/drive/1gODIIY-5452XbQxm6pf73bxpiO6ZT0a7#scrollTo=kM3UOJWsi3Q3&uniqifier=3)
+-  [week1](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%B8%80.ipynb)
