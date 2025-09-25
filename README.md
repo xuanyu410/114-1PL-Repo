@@ -14,3 +14,6 @@
 - 可計算出當日總額和當月總額。
 - 製作各種類總花費圓餅圖。
 - [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%B8%80gradio.ipynb)
+## week2作業區
+-將作業一加入AI分析工具
+- [colab連結]
