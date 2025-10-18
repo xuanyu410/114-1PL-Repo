@@ -18,3 +18,5 @@
 - 將作業一加入AI分析工具
 - 作業有api key超時問題
 - [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%BA%8C.ipynb)
+## week3作業區
+[colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%B8%89.ipynb)
