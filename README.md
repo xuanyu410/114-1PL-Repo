@@ -22,7 +22,8 @@
 - [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%B8%89.ipynb)
 - [匯出的csv檔案](https://docs.google.com/spreadsheets/d/15h9AkLTKhC4NIzxm9_2pAfy7PJQf7JePtVEouLeniJo/edit?gid=1744351360#gid=1744351360)
 ## week4作業區
-[colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E5%9B%9B.ipynb)
+- 因為害怕會執行不了所以先放執行成功的截圖。
+- [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E5%9B%9B.ipynb)
 <img width="1661" height="561" alt="螢幕擷取畫面 2025-10-20 213512" src="https://github.com/user-attachments/assets/97228b65-782f-409c-9d1b-cc7ec29cc495" />
 <img width="1902" height="563" alt="螢幕擷取畫面 2025-10-20 215954" src="https://github.com/user-attachments/assets/0e850f22-ef4c-48a0-b775-7e5ff8823708" />
 
