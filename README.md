@@ -24,4 +24,6 @@
 ## week4作業區
 [colab連結]()
 <img width="1661" height="561" alt="螢幕擷取畫面 2025-10-20 213512" src="https://github.com/user-attachments/assets/97228b65-782f-409c-9d1b-cc7ec29cc495" />
+<img width="1902" height="563" alt="螢幕擷取畫面 2025-10-20 215954" src="https://github.com/user-attachments/assets/0e850f22-ef4c-48a0-b775-7e5ff8823708" />
+
 
