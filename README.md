@@ -24,6 +24,7 @@
 ## week4作業區
 - [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E5%9B%9B.ipynb)
 ## week5作業區
+- 師大美食推薦地圖、全台美食網推薦
 - [colab連結](https://github.com/xuanyu410/114-1PL-Repo/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD%E4%BA%94.ipynb)
 ## week6作業區
 - 智慧課表管理系統
